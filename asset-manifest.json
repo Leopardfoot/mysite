@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/mysite/static/css/main.efea583a.chunk.css",
+    "main.js": "/mysite/static/js/main.cedd010d.chunk.js",
+    "main.js.map": "/mysite/static/js/main.cedd010d.chunk.js.map",
+    "runtime-main.js": "/mysite/static/js/runtime-main.f17253b3.js",
+    "runtime-main.js.map": "/mysite/static/js/runtime-main.f17253b3.js.map",
+    "static/js/2.982989f2.chunk.js": "/mysite/static/js/2.982989f2.chunk.js",
+    "static/js/2.982989f2.chunk.js.map": "/mysite/static/js/2.982989f2.chunk.js.map",
+    "static/js/3.fff3d536.chunk.js": "/mysite/static/js/3.fff3d536.chunk.js",
+    "static/js/3.fff3d536.chunk.js.map": "/mysite/static/js/3.fff3d536.chunk.js.map",
+    "index.html": "/mysite/index.html",
+    "static/css/main.efea583a.chunk.css.map": "/mysite/static/css/main.efea583a.chunk.css.map",
+    "static/js/2.982989f2.chunk.js.LICENSE.txt": "/mysite/static/js/2.982989f2.chunk.js.LICENSE.txt",
+    "static/media/Jupiter.9bbde0ba.jpg": "/mysite/static/media/Jupiter.9bbde0ba.jpg",
+    "static/media/Me.cbb306b0.jpg": "/mysite/static/media/Me.cbb306b0.jpg",
+    "static/media/Resume_ErikHaydel.dfb4bcf1.pdf": "/mysite/static/media/Resume_ErikHaydel.dfb4bcf1.pdf",
+    "static/media/cahal-pech-mayan-ruins.55f28a7a.jpg": "/mysite/static/media/cahal-pech-mayan-ruins.55f28a7a.jpg",
+    "static/media/facebook-icon.dc2518f3.png": "/mysite/static/media/facebook-icon.dc2518f3.png",
+    "static/media/linkedin-icon.f776abcc.png": "/mysite/static/media/linkedin-icon.f776abcc.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f17253b3.js",
+    "static/js/2.982989f2.chunk.js",
+    "static/css/main.efea583a.chunk.css",
+    "static/js/main.cedd010d.chunk.js"
+  ]
+}
